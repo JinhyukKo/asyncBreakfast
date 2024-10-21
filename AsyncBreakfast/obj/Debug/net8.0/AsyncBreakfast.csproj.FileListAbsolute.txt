@@ -1,0 +1,14 @@
+/Users/loke/Coding/cs/console/asynctest/AsyncBreakfast/bin/Debug/net8.0/AsyncBreakfast
+/Users/loke/Coding/cs/console/asynctest/AsyncBreakfast/bin/Debug/net8.0/AsyncBreakfast.deps.json
+/Users/loke/Coding/cs/console/asynctest/AsyncBreakfast/bin/Debug/net8.0/AsyncBreakfast.runtimeconfig.json
+/Users/loke/Coding/cs/console/asynctest/AsyncBreakfast/bin/Debug/net8.0/AsyncBreakfast.dll
+/Users/loke/Coding/cs/console/asynctest/AsyncBreakfast/bin/Debug/net8.0/AsyncBreakfast.pdb
+/Users/loke/Coding/cs/console/asynctest/AsyncBreakfast/obj/Debug/net8.0/AsyncBreakfast.GeneratedMSBuildEditorConfig.editorconfig
+/Users/loke/Coding/cs/console/asynctest/AsyncBreakfast/obj/Debug/net8.0/AsyncBreakfast.AssemblyInfoInputs.cache
+/Users/loke/Coding/cs/console/asynctest/AsyncBreakfast/obj/Debug/net8.0/AsyncBreakfast.AssemblyInfo.cs
+/Users/loke/Coding/cs/console/asynctest/AsyncBreakfast/obj/Debug/net8.0/AsyncBreakfast.csproj.CoreCompileInputs.cache
+/Users/loke/Coding/cs/console/asynctest/AsyncBreakfast/obj/Debug/net8.0/AsyncBreakfast.dll
+/Users/loke/Coding/cs/console/asynctest/AsyncBreakfast/obj/Debug/net8.0/refint/AsyncBreakfast.dll
+/Users/loke/Coding/cs/console/asynctest/AsyncBreakfast/obj/Debug/net8.0/AsyncBreakfast.pdb
+/Users/loke/Coding/cs/console/asynctest/AsyncBreakfast/obj/Debug/net8.0/AsyncBreakfast.genruntimeconfig.cache
+/Users/loke/Coding/cs/console/asynctest/AsyncBreakfast/obj/Debug/net8.0/ref/AsyncBreakfast.dll
